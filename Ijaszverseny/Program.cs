@@ -50,7 +50,7 @@
                 }
             }
 
-            Console.WriteLine($"A győztes a(z) {gyoztesindex + 1}. versenyző, {gyoztesPont} ponttal. Neve: {jatekosok[gyoztesindex]}");
+            Console.WriteLine($"A győztes a(z) {gyoztesindex + 1}. versenyző, {gyoztesPont} ponttal. Neve: ");
         }
 
 
